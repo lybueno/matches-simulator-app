@@ -9,3 +9,5 @@ Este repositório foi organizado em algumas branches que representam as implemen
     - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/lybueno/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
  3. Java e Kotlin Juntos!? Construindo Apps Android
     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/lybueno/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+ 4. Explorando o Firebase para apps Android resilientes
+    - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/lybueno/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
