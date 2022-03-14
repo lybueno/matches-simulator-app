@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237567434182",
+    "project_id": "simulator-dio-sportheca-lygia",
+    "storage_bucket": "simulator-dio-sportheca-lygia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237567434182:android:d3956b7fc4aa774c4666c7",
+        "android_client_info": {
+          "package_name": "me.dio.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237567434182-5ro5jgma0oj5no30bf7ojq0te4d2n36v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4c3HzhqLqAp_KaIrMcLcs-gfGAFX6JgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237567434182-5ro5jgma0oj5no30bf7ojq0te4d2n36v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
