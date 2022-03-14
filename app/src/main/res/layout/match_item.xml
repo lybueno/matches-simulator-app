@@ -31,7 +31,7 @@
             app:layout_constraintEnd_toEndOf="@+id/ivHomeTeam"
             app:layout_constraintStart_toStartOf="@id/ivHomeTeam"
             app:layout_constraintTop_toBottomOf="@id/ivHomeTeam"
-            tools:text="Mandante" />
+            tools:text="Home Team" />
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/tvHomeTeamScore"
@@ -84,7 +84,7 @@
             app:layout_constraintEnd_toEndOf="@id/ivAwayTeam"
             app:layout_constraintStart_toStartOf="@id/ivAwayTeam"
             app:layout_constraintTop_toBottomOf="@id/ivAwayTeam"
-            tools:text="Visitante" />
+            tools:text="Away Team" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
